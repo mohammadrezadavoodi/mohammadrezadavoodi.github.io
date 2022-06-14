@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Reza Davoodi # Website name
+title: Mohammadreza Davoodi # Website name
 baseURL: 'https://rezadavoodi.com/' # Website URL
 
 ############################
