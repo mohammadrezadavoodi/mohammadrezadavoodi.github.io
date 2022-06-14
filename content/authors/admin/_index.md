@@ -6,7 +6,7 @@ title: Mohammadreza Davoodi
 superuser: true
 
 # Role/position/tagline
-role: Assitant Professor of Electrical Engineering
+role: Assistant Professor of Electrical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
