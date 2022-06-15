@@ -28,12 +28,12 @@ education:
     - course: PhD in Electrical Engineering
       institution: Tarbiat Modares University, Tehran, Iran
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: MEng in Electrical Engineering
+      institution: Tarbiat Modares University, Tehran, Iran
       year: 2008
+    - course: BSc Bio-Medical Engineering
+      institution: University of Isfahan
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
