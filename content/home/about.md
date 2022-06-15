@@ -14,6 +14,7 @@ weight: 20
 
 title: About me
 
+# An instance of the About widget.
 widget: about
 
 # Activate this widget? true/false
