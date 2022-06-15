@@ -28,7 +28,7 @@ education:
     - course: PhD in Electrical Engineering
       institution: Tarbiat Modares University, Tehran, Iran
       year: 2012
-    - course: MEng in Electrical Engineering
+    - course: MS in Electrical Engineering
       institution: Tarbiat Modares University, Tehran, Iran
       year: 2008
     - course: BSc Bio-Medical Engineering
