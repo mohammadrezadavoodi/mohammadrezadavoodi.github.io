@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Bio
 toc: false
 share: false
 ---
