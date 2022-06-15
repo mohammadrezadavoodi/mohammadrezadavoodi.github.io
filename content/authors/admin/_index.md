@@ -23,17 +23,17 @@ interests:
   - Information Retrieval
 
 # News to show in About widget
-education:
-  courses:
-    - course: PhD in Electrical Engineering
-      institution: Tarbiat Modares University, Tehran, Iran
-      year: 2012
-    - course: MS in Electrical Engineering
-      institution: Tarbiat Modares University, Tehran, Iran
-      year: 2008
-    - course: BSc Bio-Medical Engineering
-      institution: University of Isfahan
-      year: 2006
+# education:
+#  courses:
+#    - course: PhD in Electrical Engineering
+#      institution: Tarbiat Modares University, Tehran, Iran
+#      year: 2012
+#    - course: MS in Electrical Engineering
+#      institution: Tarbiat Modares University, Tehran, Iran
+#      year: 2008
+#    - course: BSc Bio-Medical Engineering
+#      institution: University of Isfahan
+#      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
