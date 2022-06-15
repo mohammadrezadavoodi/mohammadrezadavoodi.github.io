@@ -22,7 +22,7 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 
-<!-- # Education to show in About widget
+# News to show in About widget
 education:
   courses:
     - course: PhD in Electrical Engineering
@@ -33,7 +33,7 @@ education:
       year: 2008
     - course: BSc Bio-Medical Engineering
       institution: University of Isfahan
-      year: 2006 -->
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
