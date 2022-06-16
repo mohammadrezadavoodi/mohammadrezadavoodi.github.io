@@ -22,6 +22,12 @@ main:
   - name: Group
     url: 'group/'
     weight: 60
+  - name: Invited Talks
+    url: 'invited talks/'
+    weight: 70
+  - name: Prospective Students
+    url: 'prospective students/'
+    weight: 80
 #   - name: Projects
 #     url: '#projects'
 #     weight: 30
