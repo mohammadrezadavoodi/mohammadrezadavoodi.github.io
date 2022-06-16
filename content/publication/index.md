@@ -3,6 +3,9 @@ title: Writings and Talks
 toc: false
 share: false
 ---
+## Book
+__M. Davoodi__, N. Meskin, and K. Khorasani, "Integrated fault diagnosis and control design of linear complex systems," _Institution of Engineering \& Technology (IET), 2018, ISBN: 978-1-78561-705-8, and Book DOI: 10.1049/PBCE121E.
+
 ## Selected Writings
 * Kuecker, E., Harris, M., Tesler, J., __Yaghoobian, H__.  "The Ethos of Citation in Qualitative Research Methodology." _Reconceptualizing Educational Research Methodology (RERM '21)_. [doi.org/10.7577/rerm.4684](https://doi.org/10.7577/rerm.4684)
 * __Yaghoobian, H.__ "Pedagogical Possibilities of Critical Engagement in Introductory CS Education." _52<sup>nd</sup> ACM Technical Symposium on Computer Science Education (SIGCSE)_. [doi.org/10.1145/3408877.3439659](https://doi.org/10.1145/3408877.3439659)
