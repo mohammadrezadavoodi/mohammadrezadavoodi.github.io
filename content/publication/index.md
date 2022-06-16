@@ -4,11 +4,16 @@ toc: false
 share: false
 ---
 ## Book
-__M. Davoodi__, N. Meskin, and K. Khorasani, "Integrated fault diagnosis and control design of linear complex systems," _Institution of Engineering \& Technology (IET), 2018, ISBN: 978-1-78561-705-8, and Book DOI: 10.1049/PBCE121E.
+* __M. Davoodi__, N. Meskin, and K. Khorasani, "Integrated fault diagnosis and control design of linear complex systems," _Institution of Engineering \& Technology (IET)_, 2018, DOI: 10.1049/PBCE121E.
 
-## Selected Writings
-* Kuecker, E., Harris, M., Tesler, J., __Yaghoobian, H__.  "The Ethos of Citation in Qualitative Research Methodology." _Reconceptualizing Educational Research Methodology (RERM '21)_. [doi.org/10.7577/rerm.4684](https://doi.org/10.7577/rerm.4684)
-* __Yaghoobian, H.__ "Pedagogical Possibilities of Critical Engagement in Introductory CS Education." _52<sup>nd</sup> ACM Technical Symposium on Computer Science Education (SIGCSE)_. [doi.org/10.1145/3408877.3439659](https://doi.org/10.1145/3408877.3439659)
+## Book chapter
+* __M. Davoodi__, _et. al._, "An overview of cooperative and consensus control of multi-agent systems," 
+_Wiley Encyclopedia of Electrical and Electronics Engineering_, pp. 1-35, 2016.
+
+## Journals
+* __M. Davoodi__ and J. Mohammadpour Velni, "Heterogeneity-aware graph partitioning for distributed deployment of multiagent systems," _IEEE Transactions on Cybernetics_, 2020.
+
+* M. Buzzy, V. Thesma, __M. Davoodi__, and J. Mohammadpour Velni, "Real-time plant leaf counting using deep object detection networks," _Sensors_, vol. 20, no. 23, 2020.
         
 
 
