@@ -7,6 +7,11 @@ share: false
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+  
+ design:
+  # Choose a view for the listings:
+  view: compact
+  columns: '2'
 ---
 
   
