@@ -4,4 +4,5 @@ toc: false
 share: false
 ---
 
-❗ **Openings**: I am continuously looking for highly-motivated Ph.D. students to work on **autonomous control systems and robotics**. Please email me your CV if interested. 
+The overarching theme of our research is analysis, design, and control of large-scale cyber-physical networks and autonomous systems. We apply tools and techniques from control theory, optimization, graph theory, and machine learning (ML), to control and assure safety in several application areas: smart energy systems, networks of autonomous vehicles, and human-robotic systems.
+
