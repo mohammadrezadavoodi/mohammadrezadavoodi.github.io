@@ -25,7 +25,7 @@ main:
   - name: Invited_talks
     url: 'invitedtalks/'
     weight: 70
-  - name: Prospectivestudents
+  - name: Prospective_Students
     url: 'prospectivestudents/'
     weight: 80
 #   - name: Projects
