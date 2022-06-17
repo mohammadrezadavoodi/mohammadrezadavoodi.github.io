@@ -28,6 +28,9 @@ main:
   - name: Prospective-Students
     url: 'prospectivestudents/'
     weight: 80
+  - name: Post
+    url: 'post/'
+    weight: 90
 #   - name: Projects
 #     url: '#projects'
 #     weight: 30
