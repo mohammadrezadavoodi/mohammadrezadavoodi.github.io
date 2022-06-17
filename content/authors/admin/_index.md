@@ -22,8 +22,7 @@ interests:
       *istributed control
   - Robotics
   - Machine learning
-## hjgjhg
-* hgjg
+
  
 # News to show in About widget
 # education:
