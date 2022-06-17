@@ -1,5 +1,5 @@
 ---
-title: Prospective Students
+title: Prospective-Students
 toc: false
 share: false
 ---
