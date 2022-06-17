@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## R Markdown
-<div style= "float:right;position: relative; top: -80px;">
+<img src="test.jpg" width="100" height="100">
 ```{r pressure, echo=FALSE}
 plot(pressure)
 ```
