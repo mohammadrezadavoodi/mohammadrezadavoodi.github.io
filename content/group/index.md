@@ -4,7 +4,12 @@ toc: false
 share: false
 ---
 
-# AAlLii dcjkfsfk
-<img src="test.jpg" width="200" height="200">
+## Postdoc
+<img src="test.jpg" width="100" height="100">
 
-Blas bla bla bla jhkj kjhl khk khjkhl nkjhlk
+* Blas bla bla bla jhkj kjhl khk khjkhl nkjhlk
+
+## Phd
+<img src="test.jpg" width="100" height="100">
+
+* Blas bla bla bla jhkj kjhl khk khjkhl nkjhlk
