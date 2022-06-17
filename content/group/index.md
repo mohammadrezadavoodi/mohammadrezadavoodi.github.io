@@ -5,6 +5,6 @@ share: false
 ---
 
 
-<img src="files/images/gaming-logo.png" width="400" height="400">
+<img src="test.jpg" width="400" height="400">
 
 Hassan
