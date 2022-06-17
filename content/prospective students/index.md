@@ -3,5 +3,10 @@ title: Teaching
 toc: false
 share: false
 ---
+Our research is multi-disciplinary and prospective students may have strong backgrounds in all or some of the following research areas:
 
-❗ **Openings**: I am continuously looking for highly-motivated Ph.D. students to work on **autonomous control systems and robotics**. Please email me your CV if interested. 
+* controls and robotics
+
+Please see Research to get familiar with our projects.
+
+If you are interested in joining our group, please mention that in your application to the graduate program in EECE at University of Memphis. You can also send an email to (mdavoodi[AT]uta[DOT]edu) with your CV, transcripts, and past research experience (preferably all in one pdf file).
