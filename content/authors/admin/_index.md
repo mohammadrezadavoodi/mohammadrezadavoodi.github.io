@@ -23,13 +23,6 @@ interests:
   - Robotics
   - Machine learning
  
- # Reaserachk slkfsl;k
-interests:
-  - Control systems
-      *istributed control
-  - Robotics
-  - Machine learning
-
  
 # News to show in About widget
 # education:
