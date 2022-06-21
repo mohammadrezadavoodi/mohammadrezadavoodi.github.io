@@ -72,7 +72,7 @@ email: ''
 highlight_name: true
 ---
 
-I am an Assistant Professor with the Department of Electrical & Computer Engineering, University of Memphis, Memphis, TA. From 2020 to 2022, I was a Senior Research Scientist at University of Texas at Arlington.
+I am an Assistant Professor with the Department of Electrical & Computer Engineering, University of Memphis, Memphis, TA. 
 
 Feel free to reach me at mdavoodi@uta.edu or by stopping by my office in the ...
 
