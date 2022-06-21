@@ -25,6 +25,9 @@ We propose a novel means of control design for ProMPs. We propose the use of  qu
 <div align="left"> We study and propose the problem of collaboration between teams of unmanned aerial vehicles (UAVs) and unmanned ground vehicles (UGVs) for precision agriculture.  A particularly challenging feature of this application is the variety of the vehicles deployed and multiple tasks involved. It is important to note the heterogeneity in the environment (field), the agents (size, speed, communication capabilities), and tasks. To address some of those, We design and implement a partitioning algorithm capable of capturing the heterogeneity in terms of different vehicle dynamics and assign a larger subfield to a vehicle that has better (and more) resources and capabilities compared to its neighbors, such as battery life and reliable communication. We further develop a robust partitioning method to address different sources of error including uncertainties in the measurements and positions (e.g., due to GPS error) and temporary loss of communication. </div>
 
 ##  Design, Development and Control of Active Ankle Foot Orthosis: 
+
+<img align="right" width="200" height="200" src=AFO.jpg>
+
 We have successfully studied, designed and developed a new ankle foot orthosis
 (AFO), a type of assistive robots for ankle joint, to help patients with ankle joint impairments to walk more
 naturally. We developed a novel laboratory setup including an artificial lower leg (ALL) and an active AFO.
