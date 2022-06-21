@@ -14,6 +14,9 @@ image:
 The overarching theme of our research is analysis, design, and control of large-scale cyber-physical networks and autonomous systems. We apply tools and techniques from control theory, optimization, graph theory, and machine learning (ML), to control and assure safety in several application areas: smart energy systems, networks of autonomous vehicles, and human-robotic systems.
 
 ## Safe Human-Robot Collaboration System
+
+<img align="right" width="200" height="200" src=ProMP.png>
+
 Learning from demonstration  is  a  paradigm  that  has  played  an  important role in addressing the issue of scaling up robot learning.  It  can  avert  the  drawbacks  of  traditional  robot  motion planning by relying on the presence of a human teacher.
 Probabilistic movement primitives (ProMPs) are a concept whereby a distribution of trajectories is learned from multiple demonstrations. ProMPs are also an important tool for modeling the human   behavior in the environment, since human motion does not have a deterministic  pattern  and  depends  to  many  factors,  such  as their  fatigue,  skill  level,  and  adaptation  to  various  tasks. 
 We propose a novel means of control design for ProMPs. We propose the use of  quadratic programming, and multiple control barrier functions (CBFs) to guide a system along a trajectory within the distribution defined by a ProMP. 
@@ -35,6 +38,18 @@ The kinematic and dynamic models of the AFO + ALL complex were developed. An act
 framework for the AFO was designed to assist and improve the gait movements of the impaired subject (the
 ALL). The results were validated experimentally on the developed test bed.
 
+## Attack Detection for Smart Grids: 
+
+<img align="right" width="200" height="200" src=CPS.png>
+
+In this research, to address the security and data privacy
+issues, we propose a fog (edge) computing-based platform for distributed (localized) anomaly detection of data
+integrity attacks in smart grid applications. To detect false data
+injection attacks, a distributed maximum likelihood (ML) estimator using the Alternating Direction
+Method of Multipliers (ADMM) was implemented on the proposed fog-based platform.
+
+
+
 ## Control and Fault Diagnosis for a Network of Robots: 
 We focused on cooperative control and fault diagnosis of a team of autonomous
 underwater vehicles (AUVs) and robots for oil and gas pipeline inspection. To solve the existing
@@ -50,10 +65,3 @@ tion. To solve the communication constraints in practical AUVs, I also investiga
 the problem of an event-triggered integrated fault detection, isolation and control design (e.g. see
 [5]). In the proposed method, the computational and communication resources are only used when
 they are needed.
-## Attack Detection for Smart Grids: 
-In this research, to address the security and data privacy
-issues, we propose a fog (edge) computing-based platform for distributed (localized) anomaly detection of data
-integrity attacks in smart grid applications. To detect false data
-injection attacks, a distributed maximum likelihood (ML) estimator using the Alternating Direction
-Method of Multipliers (ADMM) was implemented on the proposed fog-based platform.
-
