@@ -70,6 +70,13 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+# Reaserachk slkfsl;k
+interests:
+  - Control systems
+      *istributed control
+  - Robotics
+  - Machine learning
 ---
 
 I am an Assistant Professor with the Department of Electrical & Computer Engineering, University of Memphis, Memphis, TA. 
