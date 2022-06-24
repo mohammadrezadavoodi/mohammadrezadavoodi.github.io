@@ -25,7 +25,7 @@ interests:
  
  
 # News to show in About widget
-# education:
+ education:
   courses:
     - course: PhD in Electrical Engineering
       institution: Tarbiat Modares University, Tehran, Iran
