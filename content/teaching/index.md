@@ -5,9 +5,9 @@ share: false
 ---
 
 ### Fall 2022
-* Control systems
+* Control Systems
 
-### Fall 2012
-* Electricul circuits
+<!-- ### Fall 2012
+* Electric Circuits -->
 
 
