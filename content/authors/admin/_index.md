@@ -26,10 +26,10 @@ interests:
  
 # News to show in About widget
 # education:
-#  courses:
-#    - course: PhD in Electrical Engineering
-#      institution: Tarbiat Modares University, Tehran, Iran
-#      year: 2012
+  courses:
+    - course: PhD in Electrical Engineering
+      institution: Tarbiat Modares University, Tehran, Iran
+      year: 2012
 #    - course: MS in Electrical Engineering
 #      institution: Tarbiat Modares University, Tehran, Iran
 #      year: 2008
