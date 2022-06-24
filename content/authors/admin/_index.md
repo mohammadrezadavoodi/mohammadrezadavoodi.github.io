@@ -18,10 +18,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Control systems
-      *istributed control
+  - Control Systems
+      * Distributed control
   - Robotics
-  - Machine learning
+  - Machine Learning
  
  
 # News to show in About widget
