@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Presentations
 cms_exclude: true
 
 # View.
@@ -13,8 +13,8 @@ header:
   caption: ''
   image: ''
 ---
-* \textit{Keynote talk}, Southeast Controls Conference, Georgia Tech, 2019. 
-The details of his talk can be found in [https://scc.ece.gatech.edu/events/talk26.html]
+* Keynote talk, Southeast Controls Conference, Georgia Tech, 2019. 
+The details of his talk can be found [here](https://scc.ece.gatech.edu/events/talk26.html)
 
 * International Conference on Control, Decision and Information Technologies (CoDIT), Malta, 2016, and Spain, 2017.
 * International Conference on Event-Based Control, Communication, and Signal Processing (EBCCSP), Krakow, Poland, 2015 and 2016. 
