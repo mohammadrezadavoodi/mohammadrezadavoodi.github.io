@@ -1,5 +1,5 @@
 ---
-title: Writings and Talks
+title: ''
 toc: false
 share: false
 ---
