@@ -1,12 +1,7 @@
 ---
 title: Presentations
-cms_exclude: true
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
+toc: false
+share: false
 ---
 * Keynote talk, Southeast Controls Conference, Georgia Tech, 2019. 
 The details of his talk can be found [here](https://scc.ece.gatech.edu/events/talk26.html)
