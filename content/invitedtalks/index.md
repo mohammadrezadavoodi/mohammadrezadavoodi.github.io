@@ -7,11 +7,6 @@ cms_exclude: true
 #   2 = Compact
 #   3 = Card
 view: 2
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ''
-  image: ''
 ---
 * Keynote talk, Southeast Controls Conference, Georgia Tech, 2019. 
 The details of his talk can be found [here](https://scc.ece.gatech.edu/events/talk26.html)
