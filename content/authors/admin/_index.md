@@ -10,7 +10,7 @@ role: Assistant Professor of Electrical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Memphis
+  - name: The University of Memphis
     url: https://www.memphis.edu
 
 # Short bio (displayed in user profile at end of posts)
