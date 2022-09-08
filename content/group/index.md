@@ -9,9 +9,12 @@ share: false
 <img src="MohammadPic.jpg" align="left" width="200px"/>
 Mohammadreza Davoodi, Phd
 
-Assistant Professor,
-Department of Electrical & Computer Engineering,
-The University of Memphis
+Assistant Professor,<br>
+Department of Electrical & Computer Engineering,<br>
+The University of Memphis<br>
+Assistant Professor,<br>
+Department of Electrical & Computer Engineering,<br>
+The University of Memphis<br>
 
 ## Postdoc
 <img src="Picture1.jpg" align="left" width="200px"/>
