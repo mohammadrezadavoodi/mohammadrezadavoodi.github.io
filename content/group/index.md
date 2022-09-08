@@ -10,9 +10,9 @@ share: false
 Mohammadreza Davoodi,
 Phd
 
-Assistant Professor<br>
-Department of Electrical & Computer Engineering<br>
-The University of Memphis<br>
+Assistant Professor,
+Department of Electrical & Computer Engineering,
+The University of Memphis
 
 
 
