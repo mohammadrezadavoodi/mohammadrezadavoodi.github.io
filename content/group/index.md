@@ -27,40 +27,6 @@ Short bio: Dr. S. Iman Taheri graduated with a Ph. D in Electrical Engineering/P
 He has worked for more than seven years on optimization algorithms and focused on electrical power systems such as distribution grids, smart grids, virtual power plants, and distributed energy resources. He has substantial knowledge and experience in direct current technology, electrical system protection, electrical markets, stochastic process, integration of renewable energies, and control design for distribution systems. His current research interests are in the Machine and Deep Learning and Optimization process of Virtual Power Plants.
 
 
-sdfas kljl dsfd lljhil afeeafafsed sdffffff aaaaaaaaaaaaaaaaaaf kkkkkkkkkkkkkkk
-
-<br clear="left"/>
-
-A "newline". This text doesn't float anymore, is left-aligned.
-
-## Graduate Students
-<img src="test.jpg" align="left" width="200px"/>
-Mohammadreza
-Phd
-
-Tarbiat
-bio: ddfg
-
-sdfas kljl dsfd lljhil afeeafafsed sdffffff aaaaaaaaaaaaaaaaaaf kkkkkkkkkkkkkkk
-
-<br clear="left"/>
-
-A "newline". This text doesn't float anymore, is left-aligned.
-
-
-<img src="test.jpg" align="left" width="200px"/>
-Mohammadreza
-Phd
-
-Tarbiat
-bio: ddfg
-
-sdfas kljl dsfd lljhil afeeafafsed sdffffff aaaaaaaaaaaaaaaaaaf kkkkkkkkkkkkkkk
-
-<br clear="left"/>
-
-A "newline". This text doesn't float anymore, is left-aligned.
-
 
 
 
