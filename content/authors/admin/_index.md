@@ -17,11 +17,11 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-  - Control Systems
-  - Complex Networks
-  - Robotics
-  - Machine Learning
+#interests:
+#  - Control Systems
+#  - Complex Networks
+#  - Robotics
+#  - Machine Learning
  
  
 # News to show in About widget
@@ -78,7 +78,7 @@ I am an Assistant Professor with the Department of Electrical & Computer Enginee
 
 Feel free to reach me at mdavoodi@memphis.edu or by stopping by my office in the Engineering Science Building 204A to have a chat.
 
-The overarching theme of our research is analysis, design, and control of large-scale cyber-physical networks and autonomous systems. We apply tools and techniques from control theory, optimization, graph theory, and machine learning (ML), to control and assure safety in several application areas: smart energy systems, networks of autonomous vehicles, and human-robotic systems. For more information about our active and past projects in each of the above areas, see our Research page.
+The overarching theme of our research is analysis, design, and control of complex and autonomous systems. Systems include autonomous ground and aerial vehicles, multi-agent systems, large-scale cyber-physical networks, and robots that interact with humans. We apply tools and techniques from control theory, optimization, graph theory, and machine learning to control and assure the safety of these systems. For more information about our active and past projects in each of the above areas, see our Research page.
 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
