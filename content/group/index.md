@@ -7,14 +7,11 @@ share: false
 
 ## Director
 <img src="MohammadPic.jpg" align="left" width="200px"/>
-Mohammadreza Davoodi,
-Phd
+Mohammadreza Davoodi, Phd
 
 Assistant Professor,
 Department of Electrical & Computer Engineering,
 The University of Memphis
-
-
 
 ## Postdoc
 <img src="Picture1.jpg" align="left" width="200px"/>
