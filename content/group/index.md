@@ -15,6 +15,9 @@ The University of Memphis<br>
 Assistant Professor,<br>
 Department of Electrical & Computer Engineering,<br>
 The University of Memphis<br>
+Assistant Professor,<br>
+Department of Electrical & Computer Engineering,<br>
+The University of Memphis<br>
 
 ## Postdoc
 <img src="Picture1.jpg" align="left" width="200px"/>
