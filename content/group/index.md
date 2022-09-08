@@ -13,11 +13,8 @@ Phd
 Assistant Professor<br>
 Department of Electrical & Computer Engineering<br>
 The University of Memphis<br>
-423 DA
-360 Huntington Avenue
-Boston, MA 02115
 
-A "newline". This text doesn't float anymore, is left-aligned.
+
 
 ## Postdoc
 <img src="Picture1.jpg" align="left" width="200px"/>
