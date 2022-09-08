@@ -12,11 +12,11 @@ Mohammadreza Davoodi, Phd
 Assistant Professor,<br>
 Department of Electrical & Computer Engineering,<br>
 The University of Memphis<br>
-Assistant Professor,<br>
-Department of Electrical & Computer Engineering,<br>
-The University of Memphis<br>
-Assistant Professor,<br>
-Department of Electrical & Computer Engineering,<br>
+204A Engineering Science Bldg,<br>
+3817 Central Ave, Memphis, TN 38111,<br>
+Tel: 901-678<br>
+Email: mdavoodi@memphis.edu,<br>
+
 
 
 ## Postdoc
