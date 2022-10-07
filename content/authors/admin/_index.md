@@ -74,7 +74,7 @@ highlight_name: true
 
 ---
 
-I am an Assistant Professor with the Department of Electrical & Computer Engineering, University of Memphis, Memphis, TA. 
+I am an Assistant Professor with the Department of Electrical & Computer Engineering, University of Memphis, Memphis, TN. 
 
 Feel free to reach me at mdavoodi@memphis.edu or by stopping by my office in the Engineering Science Building 204A to have a chat.
 
