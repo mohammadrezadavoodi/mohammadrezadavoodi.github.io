@@ -6,7 +6,7 @@ share: false
 ---
 
 ## Director
-<img src="MohammadPic.jpg" align="left" width="200px"/>
+<img src="MohammadPic.jpg" align="left" width="100px"/>
 Mohammadreza Davoodi, Ph.D.
 
 Assistant Professor,<br>
@@ -20,7 +20,7 @@ Email: mdavoodi@memphis.edu<br>
 
 
 ## Students
-<img src="navid.jpg" align="left" width="100px"/>
+<img src="navid.jpg" align="left" width="50px"/>
 Navid Dini, PhD student at UofM (2024-current)<br>
 PhD: Electrical & Computer Engineering, Tarbiat Modares University 
 <br>
@@ -34,6 +34,5 @@ MS: Electrical & Computer Engineering, Tarbiat Modares University
 <br>
 
 ## Former Postdoctoral Fellows
-<img src="Picture1.jpg" align="left" width="200px"/>
 S. Iman Taheri, (Current employment: Assistant Professor of Teaching at Univ. of Memphis)
 
