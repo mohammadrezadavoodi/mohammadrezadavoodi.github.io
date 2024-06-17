@@ -20,16 +20,18 @@ Email: mdavoodi@memphis.edu<br>
 
 
 ## Students
-<img src="navid.jpg" align="left" width="150px"/>
+<img src="navid.jpg" align="left" width="100px"/>
 Navid Dini, PhD student at UofM (2024-current)<br>
 PhD: Electrical & Computer Engineering, Tarbiat Modares University 
+<br>
 
 Hamid Hafezi, PhD student at UofM (2023-current)<br>
 MS: Electrical & Computer Engineering, K.N. Toosi University of Technology
+<br>
 
 Hussein Zolfaghari, PhD student at UofM (2023-current)<br>
 MS: Electrical & Computer Engineering, Tarbiat Modares University 
-
+<br>
 
 ## Former Postdoctoral Fellows
 <img src="Picture1.jpg" align="left" width="200px"/>
