@@ -20,6 +20,13 @@ Email: mdavoodi@memphis.edu<br>
 
 
 ## Students
+Hamid Hafezi
+
+Navid Dini
+
+Hussein Zolfaghari
+
+
 
 ## Former Postdoctoral Fellows
 <img src="Picture1.jpg" align="left" width="200px"/>
