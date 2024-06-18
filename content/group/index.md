@@ -21,7 +21,7 @@ Email: mdavoodi@memphis.edu<br>
 
 ## Students
 <img src="navid.jpg" align="left" width="100px"/>
-Navid Dini,
+Navid Dini,<be>
 
 PhD student at UofM (2024-current),<br>
 PhD: Electrical & Computer Engineering, Tarbiat Modares University<br>
