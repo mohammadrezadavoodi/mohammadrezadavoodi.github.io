@@ -8,7 +8,6 @@ share: false
 ## Director
 <img src="MohammadPic.jpg" align="left" width="150px"/>
 Mohammadreza Davoodi, Ph.D.
-
 Assistant Professor,<br>
 Department of Electrical & Computer Engineering,<br>
 The University of Memphis,<br>
@@ -20,21 +19,20 @@ Email: mdavoodi@memphis.edu<br>
 
 
 ## Students
-<img src="navid.jpg" align="left" width="100px"/>
+* <img src="navid.jpg" align="left" width="100px"/>
 Navid Dini,<be>
-
 PhD student at UofM (2024-current),<br>
 PhD: Electrical & Computer Engineering, Tarbiat Modares University<br>
 Email: ndini@memphis.edu<br>
 
 
-Hamid Hafezi, <be>
+* Hamid Hafezi, <be>
 PhD student at UofM (2023-current),<br>
 MS: Electrical & Computer Engineering, K.N. Toosi University of Technology
 <br>
 Email: hhafezi@memphis.edu<br>
 
-Hussein Zolfaghari, <br>
+* Hussein Zolfaghari, <br>
 PhD student at UofM (2023-current),<br>
 MS: Electrical & Computer Engineering, Tarbiat Modares University<br>
 Email: hzlfghri@memphis.edu<br>
