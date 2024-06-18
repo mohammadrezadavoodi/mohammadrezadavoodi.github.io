@@ -28,8 +28,7 @@ Email: ndini@memphis.edu<br>
 
 * Hamid Hafezi, <be>
 PhD student at UofM (2023-current),<br>
-MS: Electrical & Computer Engineering, K.N. Toosi University of Technology
-<br>
+MS: Electrical & Computer Engineering, K.N. Toosi University of Technolog<br>
 Email: hhafezi@memphis.edu<br>
 
 * Hussein Zolfaghari, <br>
