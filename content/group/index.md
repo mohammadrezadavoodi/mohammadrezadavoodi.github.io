@@ -20,12 +20,11 @@ Email: mdavoodi@memphis.edu<br>
 
 
 ## Students
-<img src="navid.jpg" align="left" width="75px"/>
+<img src="navid.jpg" align="left" width="100px"/>
 Navid Dini,
 
-PhD student at UofM (2024-current), <br>
-PhD: Electrical & Computer Engineering, Tarbiat Modares University 
-<be>
+PhD student at UofM (2024-current),<br>
+PhD: Electrical & Computer Engineering, Tarbiat Modares University<br>
 Email: ndini@memphis.edu<br>
 
 
@@ -33,11 +32,12 @@ Hamid Hafezi, <be>
 PhD student at UofM (2023-current),<br>
 MS: Electrical & Computer Engineering, K.N. Toosi University of Technology
 <br>
+Email: hhafezi@memphis.edu<br>
 
-Hussein Zolfaghari, <be>
+Hussein Zolfaghari, <br>
 PhD student at UofM (2023-current),<br>
-MS: Electrical & Computer Engineering, Tarbiat Modares University 
-<br>
+MS: Electrical & Computer Engineering, Tarbiat Modares University<br>
+Email: hzlfghri@memphis.edu<br>
 
 ## Former Postdoctoral Fellows
 S. Iman Taheri, (Current employment: Assistant Professor of Teaching at Univ. of Memphis)
