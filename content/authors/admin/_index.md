@@ -76,9 +76,9 @@ highlight_name: true
 
 I am an Assistant Professor with the Department of Electrical & Computer Engineering, University of Memphis, Memphis, TN. 
 
-Feel free to reach me at mdavoodi@memphis.edu or by stopping by my office in the Engineering Science Building 204A to have a chat.
+Feel free to reach me at mdavoodi@memphis.edu or by stopping by my office in the Engineering Science Building 204C to have a chat.
 
-The overarching theme of our research is analysis, design, and control of complex and autonomous systems. Systems include autonomous ground and aerial vehicles, multi-agent systems, large-scale cyber-physical networks, and robots that interact with humans. We apply tools and techniques from control theory, optimization, graph theory, and machine learning to control and assure the safety of these systems. For more information about our active and past projects in each of the above areas, see our Research page.
+The overarching theme of our research is the analysis, design, and control of complex and autonomous systems. Systems include autonomous ground and aerial vehicles, multi-agent systems, large-scale cyber-physical networks, and robots that interact with humans. We apply tools and techniques from control theory, optimization, graph theory, and machine learning to control and assure the safety of these systems. For more information about our active and past projects in each of the above areas, see our Research page.
 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
