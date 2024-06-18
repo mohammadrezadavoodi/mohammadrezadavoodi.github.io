@@ -24,7 +24,9 @@ Email: mdavoodi@memphis.edu<br>
 Navid Dini, PhD student at UofM (2024-current)<br>
 PhD: Electrical & Computer Engineering, Tarbiat Modares University 
 <br>
-\vspace{12pt}
+\
+\
+\
 
 Hamid Hafezi, PhD student at UofM (2023-current)<br>
 MS: Electrical & Computer Engineering, K.N. Toosi University of Technology
