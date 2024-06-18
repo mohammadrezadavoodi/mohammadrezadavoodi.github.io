@@ -6,7 +6,7 @@ share: false
 ---
 
 ## Director
-<img src="MohammadPic.jpg" align="left" width="100px"/>
+<img src="MohammadPic.jpg" align="left" width="150px"/>
 Mohammadreza Davoodi, Ph.D.
 
 Assistant Professor,<br>
@@ -24,7 +24,8 @@ Email: mdavoodi@memphis.edu<br>
 Navid Dini, <be> 
 PhD student at UofM (2024-current), <br>
 PhD: Electrical & Computer Engineering, Tarbiat Modares University 
-<br>
+<be>
+Email: ndini@memphis.edu<br>
 
 
 Hamid Hafezi, <be>
