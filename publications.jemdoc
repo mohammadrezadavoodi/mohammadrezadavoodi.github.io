@@ -1,0 +1,62 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications
+
+== Books
+
+. M. Davoodi, N. Meskin, and K. Khorasani, "*Integrated fault diagnosis and control design of linear complex systems*," Institution of Engineering & Technology (IET), 2018, DOI: [10.1049/PBCE121E](https://doi.org/10.1049/PBCE121E).
+
+== Book Chapters
+
+. M. Davoodi, et. al., "*An overview of cooperative and consensus control of multi-agent systems*," Wiley Encyclopedia of Electrical and Electronics Engineering, pp. 1-35, 2016.
+
+== Journal Papers
+
+. M. Davoodi and J. Mohammadpour Velni, "*Heterogeneity-aware graph partitioning for distributed deployment of multiagent systems*," IEEE Transactions on Cybernetics, 2022.
+
+. M. Buzzy, V. Thesma, M. Davoodi, and J. Mohammadpour Velni, "*Real-time plant leaf counting using deep object detection networks*," Sensors, vol. 20, no. 23, 2020.
+
+. Y. Batmani, M. Davoodi, N. Meskin, "*Event-triggered suboptimal tracking controller design for a class of nonlinear discrete-time systems*," IEEE Transaction on Industrial Electronics, vol. 64, no. 10, pp. 8079 – 8087, 2017.
+
+. M. Davoodi, N. Meskin, and K. Khorasani, "*Event-triggered multi-objective control and fault diagnosis: A unified framework*," IEEE Transactions on Industrial Informatics, vol. 13, no. 1, pp. 298-311, 2017.
+
+. M. Davoodi, N. Meskin, and K. Khorasani, "*Simultaneous fault detection and consensus control design for a network of multi-agent systems*," Automatica, vol. 66, pp. 185-194, 2016.
+
+. M. Davoodi, K. Khorasani, H.A. Talebi, and H. R. Momeni, "*Distributed robust fault detection and isolation filter design for a network of heterogeneous multi-agent systems*," IEEE Transactions on Control Systems Technology, vol. 22, no. 3, pp. 1061-1069, 2014.
+
+== Conference Papers
+
+. M. Davoodi, A. Iqbal, J. Cloud, W. J. Beksi, and N. R. Gans, "*Probabilistic movement primitive control via control barrier functions*," IEEE International Conference on Automation Science and Engineering (CASE), 2021.
+
+. M. Davoodi, J. Cloud, A. Iqbal, W. J. Beksi, and N. R. Gans, "*Safe human-robot coetaneousness through model predictive control barrier functions and motion distributions*," IFAC Modeling, Estimation and Control Conference (MECC), 2021.
+
+. S. Gudeta, A. Karimoddini, M. Davoodi, I. Raptis, "*Formation and trajectory tracking control framework for a swarm of non-holonomic robots*," American Control Conference (ACC), 2021.
+
+. R. Moslemi, M. Davoodi, J. Mohammadpour Velni, "*A distributed approach for estimation of information matrix in smart grids and its application for anomaly detection*," IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 2020.
+
+. S. Gudeta, A. Karimoddini, M. Davoodi, "*Robust dynamic average consensus for a network of agents with time-varying reference signals*," IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 1368-1373, 2020.
+
+. S. Faryadi, M. Davoodi, and J. Mohammadpour Velni, "*Optimal path planning for a team of heterogeneous drones to monitor agricultural fields*," ASME Dynamic Systems and Control Conference, 2020.
+
+. M. Davoodi, R. Moslemi, and J. Mohammadpour Velni, and WenZhan Song, "*A fog-based approach to secure smart grids against data integrity attacks*," IEEE ISGT, 2020.
+
+. M. Davoodi, M. Chadli, N. Meskin, Javad M. Velni, "*Finite frequency fault diagnosis for heterogeneous multi-agent LPV systems*," IEEE Conference on Control Technology and Applications (CCTA), 2019.
+
+. Hossein Nourkhiz Mahjoub, M. Davoodi, Yaser P. Fallah, Javad M. Velni, "*A stochastic hybrid structure for predicting disturbances in mixed automated and human-driven vehicular scenarios*," IFAC Conference on Cyber-Physical & Human-Systems, Miami, FL, USA, 2018.
+
+. A. Gmerek, M. Davoodi, N. Meskin, E. S. Tehrani and R. E. Kearney, "*A new ankle foot orthosis: Modeling and control*," IEEE International Conference on Control, Decision and Information Technologies (CoDIT), 2017.
+
+. A. J. Gmerek, M. Davoodi, N. Meskin, and Fadi Jaber "*An EMG signal processing system for control of an ankle-foot orthosis*," IEEE International Conference on Control, Decision and Information Technologies (CoDIT), 2017.
+
+. M. Davoodi, N. Meskin, K. Khorasani "*Event-triggered active fault-tolerant control design for discrete-time linear systems*," IEEE International Conference on Event-Based Control, Communication, and Signal Processing, 2016.
+
+. Y. Batmani, M. Davoodi, N. Meskin, "*State-dependent adaptive dynamic programing for a class of continuous-time nonlinear systems*," IEEE International Conference on Control, Decision and Information Technologies, 2016.
+
+. M. Navi, M. Davoodi, N. Meskin, "*Sensor fault detection and isolation of an autonomous underwater vehicle using partial kernel PCA*," IEEE International Conference on Prognostics and Health Management (PHM), pp. 1-9, 2015.
+
+. M. Davoodi, N. Meskin, K. Khorasani, "*Integrated fault detection, isolation and control design for continuous-time Markovian jump systems with uncertain transition probabilities*," IEEE Conference on Decision and Control, pp. 5743-5749, 2014.
+
+== Technical Reports
+
+~~~
+This section is reserved for technical reports and white papers.
+~~~

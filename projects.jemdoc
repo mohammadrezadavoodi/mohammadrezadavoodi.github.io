@@ -1,0 +1,64 @@
+# jemdoc: menu{MENU}{projects.html}
+= Projects
+
+== Current Projects
+
+=== Project Alpha
+*Duration*: January 2024 - Present
+
+Description of the project and its main objectives. This project focuses on...
+
+*Technologies*: Python, TensorFlow, Docker
+
+*Status*: In Progress
+
+[GitHub Repository](https://github.com/username/project-alpha) | [Demo](https://project-alpha-demo.com)
+
+=== Project Beta  
+*Duration*: March 2024 - Present
+
+Another interesting project that deals with...
+
+*Technologies*: React, Node.js, MongoDB
+
+*Status*: Beta Testing
+
+[GitHub Repository](https://github.com/username/project-beta)
+
+== Completed Projects
+
+=== Data Analysis Pipeline
+*Duration*: June 2023 - December 2023
+
+Built a comprehensive data analysis pipeline for processing large datasets...
+
+*Technologies*: Python, Pandas, Scikit-learn, PostgreSQL
+
+*Outcome*: 40% improvement in processing time
+
+[GitHub Repository](https://github.com/username/data-pipeline) | [Publication](link-to-paper.pdf)
+
+=== Web Application Dashboard
+*Duration*: January 2023 - May 2023
+
+Developed a real-time dashboard for monitoring...
+
+*Technologies*: Django, JavaScript, D3.js
+
+*Outcome*: Successfully deployed and used by 100+ users
+
+[Live Demo](https://dashboard-demo.com) | [Case Study](case-study-link.pdf)
+
+== Open Source Contributions
+
+- *[Project Name]*: Contributed feature X, fixed bugs Y and Z
+- *[Another Project]*: Maintained documentation, reviewed pull requests
+- *[Third Project]*: Added new functionality, improved performance by 25%
+
+== Side Projects & Experiments
+
+- *Weekend Hackathon Project*: Built in 48 hours, won 2nd place
+- *Personal Tool*: Automation script that saves 2 hours per week
+- *Learning Project*: Exploring new technologies and frameworks
+
+[projects.jemdoc], last updated on {date} 

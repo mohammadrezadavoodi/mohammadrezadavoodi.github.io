@@ -1,0 +1,73 @@
+# jemdoc: menu{MENU}{group.html}
+= Group
+
+== Director
+
+~~~
+*Dr. Reza Davoodi*
+
+*Position*: Assistant Professor \n
+*Department*: Electrical & Computer Engineering \n
+*Institution*: The University of Memphis \n
+*Office*: 204C Engineering Science Bldg, 3817 Central Ave, Memphis, TN 38111 \n
+*Phone*: 901-678-3248 \n
+*Email*: [mdavoodi@memphis.edu](mailto:mdavoodi@memphis.edu)
+~~~
+
+== Current Students
+
+=== PhD Students
+
+~~~
+*Navid Dini* /(2024 - Present)/
+- *Program*: PhD in Electrical & Computer Engineering
+- *Previous Degree*: PhD, Electrical & Computer Engineering, Tarbiat Modares University
+- *Email*: [ndini@memphis.edu](mailto:ndini@memphis.edu)
+- *Research Focus*: [Research interests or current projects]
+~~~
+
+~~~
+*Hamid Hafezi* /(2023 - Present)/
+- *Program*: PhD in Electrical & Computer Engineering  
+- *Previous Degree*: MS, Electrical & Computer Engineering, K.N. Toosi University of Technology
+- *Email*: [hhafezi@memphis.edu](mailto:hhafezi@memphis.edu)
+- *Research Focus*: [Research interests or current projects]
+~~~
+
+~~~
+*Hussein Zolfaghari* /(2023 - Present)/
+- *Program*: PhD in Electrical & Computer Engineering
+- *Previous Degree*: MS, Electrical & Computer Engineering, Tarbiat Modares University  
+- *Email*: [hzlfghri@memphis.edu](mailto:hzlfghri@memphis.edu)
+- *Research Focus*: [Research interests or current projects]
+~~~
+
+== Alumni
+
+=== Former Postdoctoral Fellows
+
+~~~
+*Dr. S. Iman Taheri*
+- *Duration*: [Years at University of Memphis]
+- *Current Position*: Assistant Professor of Teaching
+- *Current Institution*: University of Memphis
+- *Research Areas*: [Research specializations during fellowship]
+~~~
+
+== Research Opportunities
+
+~~~
+*Prospective Students*
+
+We are always looking for motivated students interested in:
+- Control systems and robotics
+- Multi-agent systems  
+- Fault diagnosis and detection
+- Human-robot collaboration
+- Smart grid security
+
+*How to Apply*:
+- PhD applicants: Apply through the [ECE Graduate Program](https://www.memphis.edu/ece/graduate/index.php)
+- Contact Dr. Davoodi with your CV, research interests, and transcripts
+- Strong background in control theory, mathematics, or related fields preferred
+~~~

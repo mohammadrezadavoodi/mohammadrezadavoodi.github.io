@@ -1,0 +1,58 @@
+# jemdoc: menu{MENU}{cv.html}
+= Curriculum Vitae
+
+== Personal Information
+
+*Name*: Mohammad Reza Davoodi
+
+*Email*: [your-email@example.com]
+
+*Location*: City, Country
+
+== Education
+
+*PhD in [Your Field]*\n
+[University Name], [Year]\n
+Dissertation: "[Dissertation Title]"\n
+Advisor: [Advisor Name]
+
+*Master of Science in [Your Field]*\n
+[University Name], [Year]\n
+Thesis: "[Thesis Title]"
+
+*Bachelor of Science in [Your Field]*\n  
+[University Name], [Year]\n
+Magna Cum Laude
+
+== Work Experience
+
+*Position Title* ([Start Year] - [End Year])\n
+[Company/Institution Name]\n
+- Key responsibility 1
+- Key responsibility 2
+- Key achievement
+
+*Previous Position* ([Start Year] - [End Year])\n
+[Company/Institution Name]\n
+- Key responsibility 1
+- Key responsibility 2
+
+== Skills
+
+*Programming Languages*: Python, MATLAB, R, C++, Java
+
+*Software Tools*: LaTeX, Git, Linux/Unix, Docker
+
+*Research Methods*: Statistical Analysis, Machine Learning, Data Visualization
+
+== Awards and Honors
+
+- [Award Name], [Year]
+- [Fellowship Name], [Year]
+- [Recognition], [Year]
+
+== Selected Publications
+
+See my [research page](research.html) for a complete list.
+
+[cv.jemdoc], last updated on {date} 

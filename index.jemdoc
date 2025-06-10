@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{index.html}
+= Reza Davoodi
+
+
+
+== About Me
+
+I am an Assistant Professor with the Department of Electrical & Computer Engineering, University of Memphis, Memphis, TN. My research focuses on the analysis, design, and control of complex and autonomous systems.
+
+== Quick Links
+
+- [About](about.html)
+- [Research](research.html)
+- [Publications](publications.html)
+- [Projects](projects.html)
+
+
+== Recent Updates
+
+~~~
+{}{raw}
+<div style="border: 1px solid #ccc; padding: 10px; margin: 10px 0; background-color: #f9f9f9;">
+<strong>Latest News:</strong> Welcome to my website! Please check out my research on autonomous systems and control theory.
+</div>
+~~~
+
+== Contact Information
+
+Email: [mdavoodi@memphis.edu]
+
+Office: Engineering Science Building 204C, University of Memphis
+
+[index.jemdoc], last updated on {date}
