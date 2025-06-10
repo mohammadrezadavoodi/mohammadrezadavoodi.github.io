@@ -1,4 +1,4 @@
-# Mohammad Reza Davoodi's Website
+# Reza Davoodi's Website
 
 This website is built using **jemdoc**, a light text-based markup language designed for creating clean, academic-style websites. The website is inspired by the design from [easontian.com](https://easontian.com/).
 
@@ -53,9 +53,9 @@ Modify the `.jemdoc` files to update your content:
 - `index.jemdoc` - Homepage
 - `about.jemdoc` - About page
 - `research.jemdoc` - Research and publications
-- `projects.jemdoc` - Project portfolio
-- `cv.jemdoc` - Curriculum vitae
-- `contact.jemdoc` - Contact information
+- `teaching.jemdoc` - Teaching
+- `group.jemdoc` - Research group
+- `talks.jemdoc` - Talks
 
 ### 2. Update Navigation
 
