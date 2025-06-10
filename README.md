@@ -79,8 +79,8 @@ Edit the `MENU` file to modify the navigation menu.
 
 #### Links
 ```
-[Link text](http://example.com)
 [email@example.com]
+[https://example.com Example] 
 ```
 
 #### Lists
