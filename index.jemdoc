@@ -19,14 +19,17 @@ University of Memphis, Memphis, TN \n
 
 == About Me
 
-I am an Assistant Professor with the Department of Electrical & Computer Engineering at the University of Memphis. The overarching theme of our research is the analysis, design, and control of complex and autonomous systems. Systems include autonomous ground and aerial vehicles, multi-agent systems, large-scale cyber-physical networks, and robots that interact with humans. We apply tools and techniques from control theory, optimization, graph theory, and machine learning to control and assure the safety of these systems.
+I am an Assistant Professor with the Department of Electrical & Computer Engineering at the University of Memphis, where I lead the Autonomous & Complex Systems Laboratory. 
+
 == Research Interests
 
-- *Control Systems*: Fault-tolerant control, event-triggered control, consensus control
-- *Robotics & Automation*: Human-robot collaboration, probabilistic movement primitives
-- *Multi-Agent Systems*: Distributed control, cooperative robotics, UAV/UGV coordination  
-- *Cyber-Physical Security*: Smart grid security, attack detection and mitigation
-- *Medical Robotics*: Active ankle-foot orthosis, assistive technologies
+~~~
+{}{img_left}{images/res2.png}{res}{280px}
+
+- The overarching theme of our research is the analysis, design, and control of complex and autonomous systems. \n 
+- Systems include autonomous ground and aerial vehicles, multi-agent systems, large-scale cyber-physical networks, and robots that interact with humans. \n
+- We apply tools and techniques from control theory, optimization, graph theory, and machine learning to control and assure the safety of these systems.
+~~~
 
 == Recent Highlights
 
@@ -41,8 +44,8 @@ I am an Assistant Professor with the Department of Electrical & Computer Enginee
 
 June 2025: Giving a talk on Deploying Heterogeneous Multi-Robot Systems for Efficient Monitoring in Precision Agriculture at Gatech [https://sites.gatech.edu/quad-ai-engage-workshop-2025/]. \n
 May 2025: I received the Outstanding Teaching Award from the Herff College of Engineering. \n
-July 2024: Presenting our new findings on Multi-Event-Triggered Control with Reduced Packet Sizes for Quantized Discrete-Time Linear Systems at the American Control Conference.
-July 2024: Co-chairing a session at the American Control Conference.
+July 2024: Presenting our new findings on Multi-Event-Triggered Control with Reduced Packet Sizes for Quantized Discrete-Time Linear Systems at the American Control Conference. \n
+July 2024: Co-chairing a session at the American Control Conference. \n
 June 2023: Our lab was awarded a grant from the NSF through Columbia University to study the modeling and control of a network of soft actuators.
 
 
