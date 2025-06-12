@@ -31,20 +31,19 @@ I am an Assistant Professor with the Department of Electrical & Computer Enginee
 == Recent Highlights
 
 ~~~
-*Recent Projects*
-- Safe Human-Robot Collaboration using Control Barrier Functions
-- Multi-Agent Platform for Precision Agriculture  
-- Fog-based Security for Smart Grid Systems
-~~~
-
-== News & Updates
-
-~~~
 {}{raw}
 <div style="border-left: 4px solid #2E86AB; padding: 15px; margin: 15px 0; background-color: #f8f9fa;">
 <strong>We are recruiting!</strong> Looking for motivated PhD students interested in control systems, robotics, and multi-agent systems. <a href="group.html">Learn more</a><br><br>
 </div>
 ~~~
+
+== News & Updates
+
+June 2025: Giving a talk on Deploying Heterogeneous Multi-Robot Systems for Efficient Monitoring in Precision Agriculture at Gatech [https://sites.gatech.edu/quad-ai-engage-workshop-2025/]. \n
+May 2025: I received the Outstanding Teaching Award from the Herff College of Engineering. \n
+July 2024: Presenting our new findings on Multi-Event-Triggered Control with Reduced Packet Sizes for Quantized Discrete-Time Linear Systems at the American Control Conference.
+July 2024: Co-chairing a session at the American Control Conference.
+June 2023: Our lab was awarded a grant from the NSF through Columbia University to study the modeling and control of a network of soft actuators.
 
 
 
