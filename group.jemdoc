@@ -3,8 +3,12 @@
 
 == Director
 
-* [[index.html|Dr. Reza Davoodi]]
-
+~~~
+{}{raw}
+<ul>
+  <li><a href="index.html"><strong>Professor Mohammadreza Davoodi, UofM</strong></a></li>
+</ul>
+~~~
 
 == Current Students
 
@@ -13,9 +17,9 @@
 ~~~
 {}{img_left}{images/Navid.png}{Navid}{200px}
 *Navid Dini* /(2024 - Present)/
-- *Program*: PhD in Electrical & Computer Engineering
-- *Previous Degree*: PhD, Electrical & Computer Engineering, Tarbiat Modares University
-- *Email*: [ndini@memphis.edu](mailto:ndini@memphis.edu)
+- *Program*: PhD in Electrical & Computer Engineering  
+- *Previous Degree*: PhD, Electrical & Computer Engineering, Tarbiat Modares University  
+- *Email*: [ndini@memphis.edu](mailto:ndini@memphis.edu)  
 - *Research Focus*: [Research interests or current projects]
 ~~~
 
