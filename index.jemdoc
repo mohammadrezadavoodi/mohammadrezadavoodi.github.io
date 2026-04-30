@@ -51,5 +51,13 @@ I am an Assistant Professor with the Department of Electrical & Computer Enginee
 - June 2023: Our lab was awarded a grant from the NSF through Columbia University to study the modeling and control of a network of soft actuators.
 
 
+== Sponsors
 
-
+~~~
+{}{raw}
+<div style="display: flex; align-items: center; gap: 25px; margin-top: 10px;">
+  <img src="images/nsf.jpeg" style="height:70px;">
+  <img src="images/uofm.png" style="height:70px;">
+  <img src="images/arni.png" style="height:70px;">
+</div>
+~~~
