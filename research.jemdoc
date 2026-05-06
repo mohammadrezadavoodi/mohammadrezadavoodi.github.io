@@ -17,6 +17,13 @@ In this project, we explore robotic manipulation and robot learning for precisio
 Learning from demonstration is a paradigm that has played an important role in addressing the issue of scaling up robot learning. It can avert the drawbacks of traditional robot motion planning by relying on the presence of a human teacher. Probabilistic movement primitives (ProMPs) are a concept whereby a distribution of trajectories is learned from multiple demonstrations. ProMPs are also an important tool for modeling the human behavior in the environment, since human motion does not have a deterministic pattern and depends to many factors, such as their fatigue, skill level, and adaptation to various tasks. We propose a novel means of control design for ProMPs. We propose the use of quadratic programming, and multiple control barrier functions (CBFs) to guide a system along a trajectory within the distribution defined by a ProMP.
 ~~~
 
+=== UAV Control in Degraded Environments
+
+~~~
+{}{img_left}{images/drone.png}{drone}{200px}
+Autonomous vehicles are increasingly deployed in missions where reliability, autonomy, and safety must be always guaranteed. In this project, we develop a unified framework for the modeling and control of Unmanned Aerial Vehicles (UAVs) operating in degraded environments. The focus is on enabling robust trajectory tracking in the presence of external disturbances such as wind and environmental uncertainties. 
+~~~
+
 == Past Research Projects
 
 === Multi-Agent Platform in Field-Based Agriculture
