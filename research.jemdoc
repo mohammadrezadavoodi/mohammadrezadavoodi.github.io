@@ -24,6 +24,13 @@ Learning from demonstration is a paradigm that has played an important role in a
 Autonomous vehicles are increasingly deployed in missions where reliability, autonomy, and safety must be always guaranteed. In this project, we develop a unified framework for the modeling and control of Unmanned Aerial Vehicles (UAVs) operating in degraded environments. The focus is on enabling robust trajectory tracking in the presence of external disturbances such as wind and environmental uncertainties. 
 ~~~
 
+=== Bio-Inspired Electromagnetic Soft Actuators for Assistive Robotics
+
+~~~
+{}{img_left}{images/ESA.png}{esa}{200px}
+We investigate the modeling, control, and optimization of soft robotic systems formed by networks of electromagnetic soft actuators, which act as artificial muscles. This enables safe, adaptive, and energy-efficient actuation for next-generation assistive and wearable robotic systems.
+~~~
+
 == Past Research Projects
 
 === Multi-Agent Platform in Field-Based Agriculture
